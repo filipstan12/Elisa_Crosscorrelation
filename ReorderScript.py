@@ -11,6 +11,7 @@ end_time2 = -60000
 cc_steps = 6
 fs = 500
 cc_max = []
+string = "commit"
 
 def filelist(root):
     """Returns a fully-qualified list of filenames under root directory"""
